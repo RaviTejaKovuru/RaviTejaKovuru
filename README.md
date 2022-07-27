@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I would love to work as a Team with coding Enthusiast like me
 
 [![Linkedin: KOVURU RAVI TEJA](https://img.shields.io/badge/-KOVURU RAVI TEJA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kovuru-ravi-teja-2093721b0/)](https://www.linkedin.com/in/kovuru-ravi-teja-2093721b0/)
-[![GitHub KovuruRaviTeja](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/RaviTejaKovuru
+[![GitHub RaviTejaKovuru](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/RaviTejaKovuru)
 
 
 **Languages and Tools:**  
